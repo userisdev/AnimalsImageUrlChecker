@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalsImageUrlChecker", "AnimalsImageUrlChecker\AnimalsImageUrlChecker.csproj", "{14426427-46C8-4C35-B281-7331CC80FC97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalsFilterWithResHeader", "AnimalsFilterWithResHeader\AnimalsFilterWithResHeader.csproj", "{0555D0DD-6B0B-478B-85A3-B9E52AB2D476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14426427-46C8-4C35-B281-7331CC80FC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14426427-46C8-4C35-B281-7331CC80FC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14426427-46C8-4C35-B281-7331CC80FC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14426427-46C8-4C35-B281-7331CC80FC97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0555D0DD-6B0B-478B-85A3-B9E52AB2D476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0555D0DD-6B0B-478B-85A3-B9E52AB2D476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0555D0DD-6B0B-478B-85A3-B9E52AB2D476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0555D0DD-6B0B-478B-85A3-B9E52AB2D476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13273A36-A5EB-4787-98BF-7AA91F58D12C}
+	EndGlobalSection
+EndGlobal
